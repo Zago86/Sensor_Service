@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Installations>
+  <Installation name="Pippo">
+  <Connection imei="101002930" name="quadro1">
+    <Sensor model = "Nemo_96_HD" name="luce" connectionType ="RS485" address ="COM3" slaveAddress ="1" descrizione="pluto"/>	
+    <Sensor model = "Nemo_96_HD" name="prese" connectionType ="RS485" address ="COM3" slaveAddress ="2" descrizione="pippo"/>     
+  </Connection> 
+  <Connection imei="222" name="quadro2">
+    <Sensor model = "Seneca" name="quadro22" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="3" descrizione="paperino"/>      
+  </Connection>  
+  </Installation>  
+  <Installation name="Pippo2">
+  <Connection imei="101002930" name="quadro1">
+    <Sensor model = "Nemo_96_HD" name="luce" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="4" descrizione="pluto"/>	
+    <Sensor model = "Nemo_96_HD" name="prese" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="5" descrizione="pippo"/>     
+  </Connection> 
+  <Connection imei="222" name="quadro2">
+    <Sensor model = "Seneca" name="quadro22" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="6" descrizione="paperino"/>   
+	<Sensor model = "Seneca" name="PC" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="7" descrizione="paperino"/>      	
+  </Connection>  
+  </Installation>  
+</Installations>

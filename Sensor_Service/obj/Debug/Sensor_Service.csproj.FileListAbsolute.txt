@@ -1,0 +1,11 @@
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\NLog.config
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.config
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.pdb
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\MySql.Data.dll
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\NLog.dll
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\NLog.xml
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\obj\Debug\Sensor_Service.ProjectInstaller.resources
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\obj\Debug\Sensor_Service.csproj.GenerateResource.Cache
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\obj\Debug\Sensor_Service.exe
+E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\obj\Debug\Sensor_Service.pdb

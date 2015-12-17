@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Installations>
+  <Installation name="Pluto">
+  <Connection imei="101002930" name="quadro1">
+    <Sensor model = "Nemo_96_HD" name="ciabatta" connectionType ="TCP/IP" address ="127.0.0.2" slaveAddress ="8" descrizione="pluto"/>	
+    <Sensor model = "Nemo_96_HD" name="forno" connectionType ="TCP/IP" address ="127.0.0.1" slaveAddress ="9" descrizione="pippo"/>     
+  </Connection>   
+  </Installation>
+</Installations>

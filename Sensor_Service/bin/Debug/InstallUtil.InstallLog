@@ -1,0 +1,676 @@
+﻿
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Il servizio specificato è stato segnato per l'eliminazione
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Il servizio specificato è stato segnato per l'eliminazione
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Il servizio specificato è stato segnato per l'eliminazione
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Si è verificata un'eccezione durante la fase di installazione.
+System.ComponentModel.Win32Exception: Servizio specificato già esistente
+
+Sta iniziando la fase di ripristino dello stato precedente dell'installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di ripristino dello stato precedente completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
+
+
+Sta iniziando la disinstallazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Disinstallazione completata.
+
+Esecuzione di un'installazione transazionale.
+
+Inizio della fase di installazione.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+La fase di installazione è stata completata. Sta iniziando la fase di commit.
+Vedere il contenuto del file di log per informazioni sullo stato dell'assembly E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.exe.
+Il file si trova in E:\Dottorato\Sensor\PrimoStep\SW\Sensor_Service\Sensor_Service\Sensor_Service\bin\Debug\Sensor_Service.InstallLog.
+
+Fase di commit completata.
+
+Installazione transazionale completata.
